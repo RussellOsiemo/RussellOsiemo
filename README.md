@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://russelosiemoportofolio.netlify.app/](https://russelosiemoportofolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@russelosiemo](https://medium.com/@russelosiemo)
+- 📝 I once wrote an article on [https://medium.com/@russelosiemo](https://medium.com/@russelosiemo)
 
 - 💬 Ask me about **Data Science, Machine Learning and Data Analytics**
 
