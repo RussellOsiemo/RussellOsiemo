@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Science, Machine Learning and Data Analytics**
 
-- 📫 How to reach me **russelosiemo@gmail.co**
+- 📫 How to reach me **russelosiemo@gmail.com**
 
 - 📄 Know about my experiences [https://russel-osiemo-resume.tiiny.site/](https://russel-osiemo-resume.tiiny.site/)
 
