@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Russel Osiemo</h1>
-<h3 align="center">A passionateSoftware Engineer and Data Scientist from Kenya</h3>
+<h3 align="center">A passionate Software Engineer and Data Scientist from Kenya</h3>
 
 - 🔭 I’m currently working on **Data Analytics and Engineering**
 
-- 🌱 I’m currently learning **Next JS, NLP, Analytics**
+- 🌱 I’m currently learning **Flutter, Next JS, NLP, Analytics**
 
 - 👯 I’m looking to collaborate on **Data Science and AI related Projects**
 
