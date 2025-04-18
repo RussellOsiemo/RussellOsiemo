@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Russel Osiemo</h1>
-<h3 align="center">A passionate Data Scientist from Kenya</h3>
+<h3 align="center">A passionateSoftware Engineer and Data Scientist from Kenya</h3>
 
 - 🔭 I’m currently working on **Data Analytics and Engineering**
 
